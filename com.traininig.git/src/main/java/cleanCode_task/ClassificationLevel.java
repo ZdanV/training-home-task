@@ -1,4 +1,4 @@
-package CleanCode_task;
+package cleanCode_task;
 
 public enum ClassificationLevel {
     UNCLASSIFIED, CONFIDENTIAL, SECRET, TOP_SECRET

@@ -1,4 +1,4 @@
-package CleanCode_task;
+package cleanCode_task;
 
 public enum ExperimentalTypes {
     LIFTING_BODY, HYPERSONIC, HIGH_ALTITUDE, VTOL
